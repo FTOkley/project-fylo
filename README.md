@@ -1,7 +1,22 @@
 # fyloo
- 
-my first portfolio project
+
+
+my first portfolio project 
 
 SOME QUETIONS I CAME ACCROSS WHILE BUILDING THIS PROTOTYPE
 
-how do i make "for " and "id how do i know the dimentions of the image that im importing? how do i know the size of the screen that im working with. (it is covered somewhere in CSS) How do i partition the screen so that i know exactly which side i will attach an element? how do i insert image on my computer into html? How to insert webadress logo in the html head? how to change the color of the logo. i couldnt creat a media query for smaller screen for this project
+how do i make "for " and "id
+how do i know the dimentions of the image that im importing?
+how do i know the size of the screen that im working with. (it is covered somewhere in CSS)
+How do i partition the screen so that i know exactly which side i will attach an element?
+how do i insert image on my computer into html?
+How to insert webadress logo in the html head?
+how to change the color of the logo.
+i couldnt creat a media query for smaller screen for this project
+
+
+
+<h1>I am not going to change any thing here</h1>
+
+This submission will remain (with its flaws<br>
+for me to come back in the future to reference how far i have reached
